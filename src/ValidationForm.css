@@ -1,0 +1,12 @@
+.paperStyle {
+  padding: 20px;
+  height: 70vh;
+  width: 380px;
+  margin: 20px auto;
+}
+.avatarColor {
+  background-color: #3d917f !important;
+}
+.space {
+  margin-top: 150px;
+}
